@@ -19,19 +19,6 @@ Welcome to the Mystery Data Challenge! This dataset contains mysterious features
 
 Hidden within this dataset is a clue that will lead you to the correct model file. There are 40 different model implementations in the `models/` folder, but only ONE will reveal the flag when run correctly.
 
-### 🔑 The Hint
-
-*"In the land of categories, diversity reigns supreme. Count the distinct kingdoms that in your data gleam. Now seek the Fibonacci's dance, the second prime's stance. Multiply these two with care, then from this union, you must spare: the number that represents sides of a cube, plus the first prime that's not in the natural number's tube. The result you seek shall be the model that proclaims your feat."*
-
-Good luck unraveling the mystery!
-
-### What to do:
-1. Load the dataset
-2. Solve the mathematical puzzle using the hint
-3. Find the corresponding model file
-4. Fix any errors in that model file
-5. Run it to get the accuracy score - that's your flag!
-
 ### Notes
 - The correct model will output an accuracy score
 - Flag format: `flag{accuracy}` where accuracy is the 4-decimal accuracy score. Eg: flag{0.9999}
